@@ -1,1 +1,1 @@
-### Тут представлены написанные мною автотесты из пройденных курсов. 
+### Here are my autotests from the completed courses.
